@@ -1,0 +1,3 @@
+ID,PASS,NAME,FNAME,GENDER,CNIC,CONTACT,ADDRESS,FEESTATUS,DEPT,C1,M1,G1,C2,M2,G2,C3,M3,G3,Status1,Date1,Status2,Date2,Status3,Date3
+ramis123,12345,ramis,shahid,male,4.20009E+12,3490832624,karachi,paid,SE,SRE,80,A,OOP,80,A,HCI,80,A,P,03-Jun,A,04-Jun,P,05-Jun
+S1,123,emmj,ramis,female,9990,1714,renala,paid,se,,,,,,,,,,,,,,,

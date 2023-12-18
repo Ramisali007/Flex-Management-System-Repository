@@ -1,0 +1,5 @@
+ID,PASS,NAME,FNAME,GENDER,CNIC,PHONE,ADDRESS,QUALIFICATION,SALARY,DEPT,LEC1,DATE,LEC2,DATE,LEC3,DATE,,,
+ramis123,12345,ramis,shahid,male,4.20009E+12,3232293869,karachi,phd,20000,SE,OOP,Monday,15:15,SRE,Tuesday,8:45,HCI,Wednesday,8:45
+ramis123,12345,ramis,shahid,male,4.20009E+12,3232293869,karachi,matric,545353,SE,,,,,,,,,
+ramis ,12345,ramis ,shahid,male,4.20009E+12,3232293869,karachi,phd,2626636,SE,,,,,,,,,
+ramis,12345,ramis,shahid,male,4.20009E+12,3232293869,karachi,inter ,254362,SE,,,,,,,,,
